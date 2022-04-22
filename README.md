@@ -14,6 +14,8 @@
 | [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings) | Code and helpers for maintaining New York City building footprints |
 | [Geodatabase Buildings BBL QA](https://github.com/mattyschell/geodatabase-buildings-bbl-qa) | QA of geodatabase buildings boro-block-lots |
 | [Geodatabase Buildings Condo ETL](https://github.com/mattyschell/geodatabase-buildings-condoetl) | Refreshes the condo dataset in geodatabase buildings  |
+| [Geodatabase Replication Toiler](https://github.com/mattyschell/https://github.com/mattyschell/geodatabase-replication-toiler) | Integration testing of ESRI Geodatabase Replication  |
+| [Geodatabase Taxmap Toiler](https://github.com/mattyschell/geodatabase-taxmap-toiler) | Migrated New York City Taxmap data  |
 | [Geodatabase Build - PostgreSQL](https://github.com/mattyschell/geodatabase-build-postgresql) | Creates an enterprise geodatabase in PostgreSQL on Azure  |
 
 
