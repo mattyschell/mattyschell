@@ -25,7 +25,7 @@
 |----|----|
 | [How Do I PostGIS](https://github.com/mattyschell/howdoipostgis) | Instructions for setting up PostGIS on government-issued PC computers |
 | [NYC Spatial Rolodex](https://github.com/mattyschell/nyc-spatial-rolodex) |  Plain language info to find and use spatial data in New York City |
-| [NYCityMap Additional Data](https://github.com/mattyschell/nycitymap_additionaldata) | Sources of data on legacy deprecated NYCityMap |
+| [NYC Spatial Coordinate Systems](https://github.com/mattyschell/nyc-spatial-coordinate-systems) | Coordinate system reference |
 | [Stratum](https://github.com/mattyschell/stratum) | Simple PostGIS database setup reference |
 
 <!--
