@@ -5,6 +5,7 @@
 | [AGOL Pub](https://github.com/mattyschell/agol-pub) | Publish geodatabases to ArcGIS Online |
 | [Geodatabase Toiler](https://github.com/mattyschell/geodatabase-toiler) |  Manage versioned ESRI Enterprise Geodatabases |
 | [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings) | Maintain New York City building footprints |
+| [Geodatabase Buildings Automation](https://github.com/mattyschell/geodatabase-buildings-automation) | Proof of concept TAP |
 | [Geodatabase Buildings BBL QA](https://github.com/mattyschell/geodatabase-buildings-bbl-qa) | QA [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings) boro-block-lots |
 | [Geodatabase Buildings Condo ETL](https://github.com/mattyschell/geodatabase-buildings-condoetl) | Refresh the condo dataset used in [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings)  |
 | [Geodatabase Buildings Height](https://github.com/mattyschell/geodatabase-buildings-height) | Update and QA roof heights in [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings)  |
@@ -20,8 +21,6 @@
 | Data Creation and Updates | Description | 
 |----|----|
 | [CSCL Refresh](https://github.com/mattyschell/cscl-refresh) | Refresh the Citywide Street Centerline database from production  |
-| [CSCL Subaddress Ad Hoc](https://github.com/mattyschell/cscl-subaddress-adhoc) | Occasionally update Citywide Centerline subaddresses |
-| [CSCL Subaddress Matched](https://github.com/mattyschell/cscl-subaddress-matched) | Bulk update Citywide Centerline subaddresses using commercial data |
 | [mobilelatlong2cloud](https://github.com/mattyschell/mobilelatlong2cloud) | PostGIS database setup and load |
 | [NYC Landmass](https://github.com/mattyschell/NYC_Landmass) | Create several New York City landmass datasets |
 | [NYC Topology DB](https://github.com/mattyschell/nyc-topology-db) | Dreams deferred |
