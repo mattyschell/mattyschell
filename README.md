@@ -5,9 +5,9 @@
 | [AGOL Pub](https://github.com/mattyschell/agol-pub) | Publish geodatabases to ArcGIS Online |
 | [CSCL Change Detective](https://github.com/mattyschell/cscl-change-detective) | Monitor upstream and downstream  |
 | [CSCL Migrate](https://github.com/mattyschell/cscl-migrate) | Migrate NYC's top banana geodatabase  |
+| [CSCL QA](https://github.com/mattyschell/cscl_qa) | QA around the edges of NYC's top banana geodatabase |
 | [Geodatabase Toiler](https://github.com/mattyschell/geodatabase-toiler) |  Manage versioned ESRI Enterprise Geodatabases |
 | [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings) | Maintain New York City building footprints |
-| [Geodatabase Buildings Automation](https://github.com/mattyschell/geodatabase-buildings-automation) | Proof of concept TAP |
 | [Geodatabase Buildings BBL QA](https://github.com/mattyschell/geodatabase-buildings-bbl-qa) | QA [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings) boro-block-lots |
 | [Geodatabase Buildings Condo ETL](https://github.com/mattyschell/geodatabase-buildings-condoetl) | Refresh the condo dataset used in [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings)  |
 | [Geodatabase Buildings Height](https://github.com/mattyschell/geodatabase-buildings-height) | Update and QA roof heights in [Geodatabase Buildings](https://github.com/mattyschell/geodatabase-buildings)  |
